@@ -1,0 +1,7 @@
+/**
+ * Provides all classes for the controller component.
+ *
+ * @author Guillaume-Muller
+ * @version 2.0
+ */
+package controller;
